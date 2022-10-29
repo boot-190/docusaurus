@@ -1,9 +1,9 @@
 ---
 sidebar_position: 8
-slug: /api/plugins/@docusaurus/plugin-ideal-image
+id: plugin-ideal-image
+title: '📦 plugin-ideal-image'
+slug: '/api/plugins/@docusaurus/plugin-ideal-image'
 ---
-
-# 📦 plugin-ideal-image
 
 import APITable from '@site/src/components/APITable';
 

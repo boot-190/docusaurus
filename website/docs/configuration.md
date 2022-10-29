@@ -1,8 +1,7 @@
 ---
-description: Configuring your site's behavior through docusaurus.config.js and more.
+id: configuration
+title: Configuration
 ---
-
-# Configuration
 
 import TOCInline from '@theme/TOCInline';
 

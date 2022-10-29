@@ -1,10 +1,8 @@
 ---
 id: tutorial
-description: This tutorial will walk you through the basics of the Docusaurus i18n system.
+title: i18n - Tutorial
 slug: /i18n/tutorial
 ---
-
-# i18n - Tutorial
 
 ```mdx-code-block
 import Tabs from '@theme/Tabs';

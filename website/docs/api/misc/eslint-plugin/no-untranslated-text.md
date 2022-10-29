@@ -1,10 +1,8 @@
 ---
-slug: /api/misc/@docusaurus/eslint-plugin/no-untranslated-text
+slug: '/api/misc/@docusaurus/eslint-plugin/no-untranslated-text'
 ---
 
 # no-untranslated-text
-
-import APITable from '@site/src/components/APITable';
 
 Enforce text labels in JSX to be wrapped by translate calls.
 

@@ -1,11 +1,10 @@
 ---
 sidebar_position: 0
 id: themes-overview
+title: 'Docusaurus themes'
 sidebar_label: Themes overview
-slug: /api/themes
+slug: '/api/themes'
 ---
-
-# Docusaurus themes
 
 We provide official Docusaurus themes.
 

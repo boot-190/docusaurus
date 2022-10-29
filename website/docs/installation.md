@@ -1,8 +1,7 @@
 ---
-description: How to install Docusaurus locally, and start a Docusaurus site in no time.
+id: installation
+title: Installation
 ---
-
-# Installation
 
 ```mdx-code-block
 import Tabs from '@theme/Tabs';

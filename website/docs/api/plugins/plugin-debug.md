@@ -1,9 +1,9 @@
 ---
 sidebar_position: 5
-slug: /api/plugins/@docusaurus/plugin-debug
+id: plugin-debug
+title: '📦 plugin-debug'
+slug: '/api/plugins/@docusaurus/plugin-debug'
 ---
-
-# 📦 plugin-debug
 
 ```mdx-code-block
 import Tabs from '@theme/Tabs';

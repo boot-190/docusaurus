@@ -1,8 +1,7 @@
 ---
-description: How to keep a reasonable bundle size while ensuring sufficient browser support.
+id: browser-support
+title: Browser support
 ---
-
-# Browser support
 
 Docusaurus allows sites to define the list of supported browsers through a [browserslist configuration](https://github.com/browserslist/browserslist).
 

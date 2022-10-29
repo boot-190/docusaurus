@@ -1,9 +1,9 @@
 ---
 sidebar_position: 3
-slug: /api/plugins/@docusaurus/plugin-content-pages
+id: plugin-content-pages
+title: '📦 plugin-content-pages'
+slug: '/api/plugins/@docusaurus/plugin-content-pages'
 ---
-
-# 📦 plugin-content-pages
 
 import APITable from '@site/src/components/APITable';
 

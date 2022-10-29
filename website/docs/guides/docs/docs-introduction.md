@@ -1,10 +1,9 @@
 ---
 id: introduction
+title: Docs Introduction
 sidebar_label: Introduction
 slug: /docs-introduction
 ---
-
-# Docs Introduction
 
 The docs feature provides users with a way to organize Markdown files in a hierarchical format.
 

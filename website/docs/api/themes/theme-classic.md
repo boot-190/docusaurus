@@ -1,9 +1,9 @@
 ---
 sidebar_position: 2
-slug: /api/themes/@docusaurus/theme-classic
+id: theme-classic
+title: '📦 theme-classic'
+slug: '/api/themes/@docusaurus/theme-classic'
 ---
-
-# 📦 theme-classic
 
 The classic theme for Docusaurus.
 

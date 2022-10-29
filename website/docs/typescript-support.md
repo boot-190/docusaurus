@@ -1,8 +1,7 @@
 ---
-description: Docusaurus is written in TypeScript and provides first-class TypeScript support.
+id: typescript-support
+title: TypeScript Support
 ---
-
-# TypeScript Support
 
 Docusaurus is written in TypeScript and provides first-class TypeScript support.
 
